@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1429252976 source:c:\users\triton\desktop\cpp\test\mytest\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	<fstream>
+	<cstdio>
+	<cstring>
+	<cstddef>
+
+1428588563 
+
+1428610996 source:/home/lesya/Рабочий стол/MyTest/main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	<fstream>
+	<cstdio>
+	<cstring>
+
+1429454720 source:c:\users\fenix\desktop\cpp\mytest\mytest\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	<fstream>
+	<cstdio>
+	<cstring>
+	<cstddef>
+
